@@ -10,7 +10,7 @@
  
  ## Results :
  * Result will be saved in the html page with the topic name. 
- * A map with the makers and tweets will be present as a result and text of the tweets will also apear on your terminal screen
+ * A map with the markers and tweets will be present as a result and text of the tweets will also apear on your terminal screen
  * Also the stats of how many of the tweets that we have parsed have location will apear on the screen.
  
  ## Further comments have done in the script to understand the logic.
